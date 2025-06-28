@@ -1,0 +1,6 @@
+id: tone_shifter_agent
+name: Tone Shifter Agent
+description: Translates English to Chinese with idiomatic and emotional nuance.
+entry_point: tone_shifter_agent.agent:ToneShifterAgent
+dependencies:
+  - agentos
